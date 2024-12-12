@@ -1,4 +1,4 @@
-# rust-pangenome-tools
+# rust-pangenome-harmonic-mean
  - writing all pangenome tools in rust. 
  - This part estimates the harmoninc mean of the given snps across the indiviuals. 
  ```
